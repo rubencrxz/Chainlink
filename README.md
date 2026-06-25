@@ -1,4 +1,4 @@
-# Chainlink and the Confirmed Issue with No Payout
+# 🔷 Chainlink and the Confirmed Issue with No Payout
 
 In a Chainlink audit contest, I submitted a finding involving an accounting mismatch that could lead to an economically relevant surplus capture.
 
